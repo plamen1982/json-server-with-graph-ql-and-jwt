@@ -1,4 +1,4 @@
 # json-server-with-graph-ql-and-jwt
 
-- npm i
+- npm install
 - npm start
